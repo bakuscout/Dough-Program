@@ -24,8 +24,8 @@ body {
     position: relative;
     left: 50%;
     margin-left: -50px;
-    margin-bottom: .5%;
-    margin-top: 1%;
+    top: 10%;
+    margin-top: 15px;
 }
 
 .size_input {
@@ -36,7 +36,7 @@ body {
     position: relative;
     left: 50%;
     margin-left: -100px;
-    margin-top: 1%;
+    top: 10%;
 }
 
 input {
@@ -53,5 +53,5 @@ input {
     position: relative;
     left: 50%;
     margin-left: -30px;
-    margin-top: 1%;
+    top: 10%;
 }
