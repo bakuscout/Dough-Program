@@ -1,0 +1,52 @@
+body {
+    background-image: url("./Garibaldi's%20logo.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+.header {
+    Background-color: rgba(0, 150, 0, 0.85);
+    color: black;
+    text-align: center;
+    width: fit-content;
+    margin: 0 auto;
+    opacity: 85%;
+}
+
+.button {
+    color: green;
+    width: 100px;
+    height: 25px;
+    margin: 0;
+    text-align: center;
+    margin-left: 46%;
+    margin-bottom: 5%;
+    margin-top: 2.5%;
+}
+
+.size_input {
+    background: rgba(0, 135, 0, 0.65);
+    color: black;
+    margin-top: 1%;
+    width: fit-content;
+    margin-left: 42.75%;
+}
+
+input {
+    height: 30px;
+    width: 185px;
+}
+
+.display {
+    background: rgba(0, 135, 0, 0.65);
+    color: black;
+    width: fit-content;
+    height: fit-content;
+    margin: 0;
+    text-align: center;
+    margin-left: 47.5%;
+    margin-bottom: 5%;
+    margin-top: 2.5%;
+}
